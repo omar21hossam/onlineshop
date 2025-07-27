@@ -22,4 +22,16 @@
 - Google Fonts
 
 ## 📁 Project Structure
-
+├── index.html
+├── products.html
+├── about.html
+├── contact.html
+├── css/
+│ └── styles.css
+├── assests/
+│ ├── food.jpg
+│ ├── drinks.jpg
+│ ├── groceries.jpg
+│ ├── cart.png
+│ └── about-us.jpg
+└── README.md
